@@ -1,0 +1,17 @@
+.images {
+    height: 500px;
+    width: auto;
+}
+
+.small {
+    height: 150px;
+    width: auto;
+}
+
+* {
+    background-color: beige;
+}
+
+.center {
+    text-align: center;
+}
